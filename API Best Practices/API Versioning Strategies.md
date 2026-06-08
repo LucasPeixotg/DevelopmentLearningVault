@@ -1,5 +1,9 @@
 ---
-tags: [api, versioning, rest, best-practices]
+tags:
+  - versioning
+  - rest
+  - best-practices
+  - api-design
 created: 2026-06-03
 ---
 
@@ -26,12 +30,14 @@ created: 2026-06-03
 
 (e.g., Stripe's `2024-10-28.acacia`): orthogonal to the four above. Versions are dates, naturally ordered. Enables continuous evolution and per-customer pinning, but requires expensive server-side compatibility shims.
 
-## Key anti-patterns
+## Common Mistakes
 
-- Versioning every endpoint independently
-- Releasing v2 for cosmetic fixes
-- No deprecation policy
-- Mixing strategies (URL + header that disagree)
+> [!warning] Anti-patterns
+> 
+> - Versioning every endpoint independently
+> - Releasing v2 for cosmetic fixes
+> - No deprecation policy
+> -  Mixing strategies (URL + header that disagree)
 
 ## Related
 

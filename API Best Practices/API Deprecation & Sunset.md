@@ -1,5 +1,9 @@
 ---
-tags: [api, deprecation, rest, best-practices]
+tags:
+  - deprecation
+  - rest
+  - best-practices
+  - api-design
 created: 2026-06-03
 ---
 

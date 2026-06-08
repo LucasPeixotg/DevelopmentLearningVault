@@ -19,7 +19,7 @@ Both are YAML/JSON files. Both produce interactive HTML docs through renderers. 
 - **Realistic examples** for every request and response. Examples are the single highest-value thing for consumers.
 - **All error responses documented**, not just the happy path — including status codes, error format, and what triggers each.
 - **Authentication clearly specified** with `securitySchemes` (see [[Authentication and Authorization patterns]]).
-- **Deprecation flags** on retiring endpoints, tying into [[API deprecation and sunset]].
+- **Deprecation flags** on retiring endpoints, tying into [[API Deprecation & Sunset]].
 - **Changelog** alongside the spec, so consumers can see what changed between versions.
 
 ## Rendering tools

@@ -2,7 +2,6 @@
 tags: [api-design, documentation, openapi, best-practices, spec-first, code-first]
 created: 2026-06-03
 ---
-
 # Spec-first vs Code-first API Development
 
 > Summary: Two workflows for producing an [[OpenAPI Specification]]. **Spec-first** writes the contract by hand, then generates stubs, SDKs, and mocks from it. **Code-first** annotates the server code and lets a library emit the spec. Spec-first wins for public APIs and parallel teams; code-first wins for internal services and solo iteration.
