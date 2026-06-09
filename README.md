@@ -6,6 +6,16 @@ Notes are written to be scannable and direct: what the concept is, when to use i
 
 ---
 
+## Getting started
+
+This vault is designed to be explored in [Obsidian](https://obsidian.md), which renders wiki-links, callouts, and the graph view that connects notes together.
+
+1. [Download Obsidian](https://obsidian.md/download)
+2. Open this repository as a vault: **Open folder as vault** → select this directory
+3. Start from any topic's introduction note in the table below and follow the `[[links]]` from there
+
+---
+
 ## Topics
 
 | Area | Description | Start here |
