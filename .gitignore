@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian workspace state (machine-specific, changes constantly)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache and sync artifacts
+.obsidian/cache
+.obsidian/.cache
+.trash/
+
+# Attachments that shouldn't be versioned (optional — remove if you want to track them)
+# Attachments/
+
+# Editor and OS artifacts
+*.swp
+*.swo
+*~
+Thumbs.db
