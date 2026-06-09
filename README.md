@@ -1,3 +1,6 @@
+
+![[Attachments/graph.png]]
+
 # Development Learning
 
 A personal knowledge vault for development learnings — opinionated notes, patterns, and reference material built as a linked graph in [Obsidian](https://obsidian.md).
