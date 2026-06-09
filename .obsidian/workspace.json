@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Best Practices/Pagination/Cursor-based Pagination.md",
+                "file": "API Best Practices/API Development Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cursor-based Pagination"
+              "title": "API Development Introduction"
+            }
+          },
+          {
+            "id": "deaf3432a308d3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API Best Practices/API Development Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API Development Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,44 +198,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "f4ccf77dfa9b0bb0",
+  "active": "deaf3432a308d3c9",
   "lastOpenFiles": [
+    "API Best Practices/CORS.md",
+    "API Best Practices/Spec-first vs Code-first API Development.md",
+    "API Best Practices/Express production middleware baseline.md",
+    "API Best Practices/Hypermedia and HATEOAS.md",
+    "API Best Practices/API Development Introduction.md",
+    "API Best Practices/Versioning/API Deprecation & Sunset.md",
+    "API Best Practices/Untitled.md",
+    "Untitled.canvas",
+    "API Best Practices/Versioning/API Versioning Strategies.md",
+    "API Best Practices/Versioning/SDK versioning.md",
+    "API Best Practices/Versioning/API Migration guides.md",
+    "API Best Practices/Versioning/API lifecycle communication.md",
+    "API Best Practices/Versioning/API Changelog.md",
+    "API Best Practices/Versioning",
+    "API Best Practices/untitled folder",
+    "API Best Practices/Rate Limiting & Throttling/Rate limiting & throttling.md",
+    "API Best Practices/Authentication & Authorization/API Keys.md",
+    "API Best Practices/Idempotency/Idempotency.md",
+    "API Best Practices/Error Guidelines/Error response formats.md",
+    "API Best Practices/Idempotency/Idempotency server-side implementation.md",
+    "API Best Practices/Idempotency/Idempotency-Key header pattern.md",
+    "API Best Practices/Pagination/Cursor-based Pagination.md",
     "API Best Practices/Pagination/Page-based Pagination.md",
     "API Best Practices/Pagination/Offset-limit Pagination.md",
-    "API Best Practices/Pagination/Cursor-based Pagination.md",
     "API Best Practices/Pagination/Pagination Introduction.md",
-    "API Best Practices/API Deprecation & Sunset.md",
     "Offset/limit Pagination.md",
     "Offset",
     "API Best Practices/Pagination/Cursor Encryption.md",
     "API Best Practices/Error Guidelines/API error design guidelines.md",
     "API Best Practices/Pagination",
-    "API Best Practices/untitled folder",
     "API Best Practices/Error Guidelines/GraphQL error format.md",
-    "API Best Practices/Error Guidelines/RFC 7807 Problem Details.md",
-    "API Best Practices/Error Guidelines/Error response formats.md",
-    "API Best Practices/Rate Limiting & Throttling/Rate Limiting in Node and Typescript Comparison.md",
     "API Best Practices/Error Guidelines",
-    "API Best Practices/Rate Limiting & Throttling/Rate limiting & throttling.md",
-    "API Best Practices/Rate Limiting & Throttling/Redis Libraries Rate Limiting Implementation.md",
-    "API Best Practices/Rate Limiting & Throttling/Redis-backed sliding window rate limiting Implementation.md",
-    "API Best Practices/Rate Limiting & Throttling/In-process Rate Limiting Implementation.md",
-    "API Best Practices/Rate Limiting & Throttling/API Gateway Rate Limiting Implementation.md",
-    "API Best Practices/Authentication & Authorization/JSON Web Tokens.md",
-    "API Best Practices/Authentication & Authorization/API Keys.md",
-    "API Best Practices/Authentication & Authorization/Authentication Strategies Compared.md",
-    "API Best Practices/Authentication & Authorization/Mutual TLS.md",
-    "API Best Practices/Authentication & Authorization/OAuth 2.0.md",
-    "API Best Practices/Authentication & Authorization/Service Mesh.md",
-    "API Best Practices/API Documentation.md",
-    "API Best Practices/API Versioning Strategies.md",
-    "API Best Practices/Spec-first vs Code-first API Development.md",
     "API Best Practices/Rate Limiting & Throttling",
     "API Best Practices/Rate Limiting & throttling",
     "Untitled.base",
     "API Best Practices/Authentication & Authorization",
-    "API Best Practices",
-    "Untitled 1.base",
-    "Untitled.canvas"
+    "API Best Practices"
   ]
 }

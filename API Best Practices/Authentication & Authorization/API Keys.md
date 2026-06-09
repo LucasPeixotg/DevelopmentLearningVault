@@ -146,4 +146,4 @@ API keys are simple enough that most teams roll their own middleware. The librar
 - [[Mutual TLS]]
 - [[Authentication strategies compared]]
 - [[Authentication and Authorization patterns]]
-- [[Rate limiting]]
+- [[Rate limiting & throttling]]

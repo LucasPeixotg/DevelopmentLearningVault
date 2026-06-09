@@ -6,17 +6,60 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"API Best Practices/Authentication & Authorization\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"API Best Practices/Rate Limiting & Throttling\" ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"API Best Practices/Idempotency\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"API Best Practices/Error Guidelines\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"API Best Practices/Pagination\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"API Best Practices/Versioning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.22270399305556,
+  "lineSizeMultiplier": 2.41622829861111,
+  "collapse-forces": false,
+  "centerStrength": 0.462760416666667,
+  "repelStrength": 17.0373263888889,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.3656515434595446,
+  "linkDistance": 30,
+  "scale": 0.8572484702913822,
   "close": true
 }

@@ -45,5 +45,5 @@ Most mature API teams (Stripe, Twilio, GitHub) are spec-first. FastAPI's success
 
 - [[OpenAPI Specification]]
 - [[Contract Testing]]
-- [[API versioning strategies]]
+- [[API Versioning Strategies]]
 - [[AsyncAPI]]

@@ -42,3 +42,4 @@ created: 2026-06-03
 ## Related
 
 - [[API Deprecation & Sunset]] — read this next: how to communicate and enforce the end-of-life of a version once you've committed to retiring it
+- [[API Changelog]]

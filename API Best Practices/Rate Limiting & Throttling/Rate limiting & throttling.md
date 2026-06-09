@@ -137,5 +137,5 @@ X-RateLimit-Limit-Hour:   1000
 - [[Redis Libraries Rate Limiting Implementation]]
 - [[API Gateway Rate Limiting Implementation]]
 - [[Rate Limiting in Node and Typescript Comparison]]
-- [[API versioning strategies]]
+- [[API Versioning Strategies]]
 - [[API deprecation and sunset]]
