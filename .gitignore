@@ -20,3 +20,10 @@
 *.swo
 *~
 Thumbs.db
+
+# Quartz site (site/) — build artifacts and dependencies
+site/node_modules/
+site/public/
+site/.quartz/
+site/.quartz-cache/
+site/tsconfig.tsbuildinfo
