@@ -3,7 +3,7 @@ name: Deploy vault to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - website
   workflow_dispatch:
 
 permissions:
